@@ -8,7 +8,6 @@ An AI-powered creative tool that generates unique poetry inspired by fractal mat
 
 ### 🎭 Core Capabilities
 - **Fractal Mathematics Engine**: Mandelbrot and Julia set computations
-- **AI Poetry Generation**: Poems inspired by fractal properties (complexity, chaos, magnitude)
 - **Interactive Exploration**: Navigate through infinite fractal space with real-time poetry
 - **ASCII Art Rendering**: Beautiful text-based fractal visualizations
 - **Color Visualization**: ANSI color-coded fractal displays
@@ -17,7 +16,6 @@ An AI-powered creative tool that generates unique poetry inspired by fractal mat
 ### 🚀 What Makes This Special
 - **Mathematical Poetry**: Each poem is generated using actual fractal mathematics
 - **Infinite Exploration**: Navigate through fractal space and discover new poetic landscapes
-- **AI Creativity**: Sophisticated word selection based on fractal properties
 - **Multiple Fractals**: Mandelbrot sets, Julia sets with various parameters
 - **Session Management**: Save bookmarks, export sessions, track exploration history
 
@@ -195,12 +193,6 @@ Beautiful chaotic in boundless ocean, serenity without end
 ```
 
 ## 🚀 Technical Innovation
-
-### AI Creativity Techniques
-- **Property Mapping**: Direct translation of mathematical properties to linguistic features
-- **Vocabulary Biasing**: Fractal parameters influence word selection probabilities
-- **Template Dynamics**: Sentence structures that reflect mathematical patterns
-- **Semantic Coherence**: Maintaining poetic meaning while honoring mathematical inspiration
 
 ### Performance Optimizations
 - **Efficient Computation**: Optimized fractal iteration algorithms

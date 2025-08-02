@@ -2,7 +2,7 @@
 
 **Where Mathematics Meets Poetry, and Chaos Becomes Art**
 
-An AI-powered creative tool that generates unique poetry inspired by fractal mathematics, featuring interactive exploration, beautiful visualizations, and artistic exports.
+A creative tool that generates unique poetry inspired by fractal mathematics, featuring interactive exploration, beautiful visualizations, and artistic exports.
 
 ## ✨ Features
 
